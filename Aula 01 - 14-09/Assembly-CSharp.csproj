@@ -45,8 +45,10 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Aula01\Scripts\Movimento.cs" />
-     <Compile Include="Assets\Aula01\Scripts\MovimentoTeclado.cs" />
+     <Compile Include="Assets\ProjCustom\Scripts\Coletavel.cs" />
+     <Compile Include="Assets\ProjCustom\Scripts\Movimento.cs" />
+     <Compile Include="Assets\ProjCustom\Scripts\MovimentoTeclado.cs" />
+     <Compile Include="Assets\ProjCustom\Scripts\Player.cs" />
  <Reference Include="UnityEngine.Advertisements">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll</HintPath>
  </Reference>
